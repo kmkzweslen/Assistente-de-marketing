@@ -1,4 +1,4 @@
-#Como rodara a aplicação ativar o ambiente virtual, no terminal coloque:
+# Como rodara a aplicação #
 
 para ativar o ambiente virtual, no terminal coloque:
 ```

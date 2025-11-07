@@ -1,16 +1,21 @@
-para rodar, esteja naraiz do projeto, para ativar o ambiente virtual, no terminal coloque:
+#Como rodara a aplicação ativar o ambiente virtual, no terminal coloque:
 
+para ativar o ambiente virtual, no terminal coloque:
+```
 python -m venv venv
 venv\Scripts\activate
-
+```
+---
 instale as dependencias:
-
+```
 pip install -r requirements.txt
-
+```
+---
 Acesse :
-
+```
 http://127.0.0.1:8000/docs
-
+```
+---
 Localize o endpoint /conteudo/
 
 Clique em "Try it out"

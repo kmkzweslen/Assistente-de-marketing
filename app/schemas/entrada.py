@@ -8,3 +8,4 @@ class Entrada(BaseModel):
     tom: str
     rede_alvo: str
     formato: str
+    formato: str

@@ -1,7 +1,11 @@
-para rodar, esteja naraiz do projeto, para ativar o ambiente virtual, no terminal coloque:
+para rodar, esteja na raiz do projeto, para ativar o ambiente virtual, no terminal coloque:
 
 python -m venv venv
 venv\Scripts\activate
+
+para rodar:
+
+uvicorn main:app --reload
 
 instale as dependencias:
 
